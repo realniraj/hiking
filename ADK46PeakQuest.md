@@ -1,3 +1,5 @@
+**Niraj Kumar's ADK46 Quest completion list.**
+
 | Serial | Peak Name               | Date Hiked  | Description                  | Photo |
 | ------ | ----------------------- | ----------- | ---------------------------- | ---------- |
 | 1      | Marcy                   |             |                              |            |
@@ -46,5 +48,3 @@
 | 44     | Table Top               |             |                              |            |
 | 45     | Marshall                |             |                              |            |
 | 46     | Iroquois                |             |                              |            |
-
-You can now fill in the "Date Hiked," "Description," and "Signature" columns for each peak as you complete them.
