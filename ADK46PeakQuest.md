@@ -1,4 +1,5 @@
-**Niraj Kumar's ADK46 Quest completion list.**
+# Niraj Kumar's ADK46 Quest completion list.
+## 14/46 ADK46W | 14/46 ADK46
 
 | Serial | Mountain Name               | Date Hiked  | Description                  | AllTrails |
 | ------ | ----------------------- | ----------- | ---------------------------- | ---------- |
@@ -35,7 +36,7 @@
 | 31     | Cliff               |             |                              |            |
 | 32 :white_check_mark:      | Couchsachraga           |  Feb 17, 2024           |  Completed this as part of one hike, Santanoni Range but had to skip santanoni due to -29 F windchill at night.                           |          [Hike-Panther & Couchsachraga](https://www.alltrails.com/widget/recording/hike-panther-ascent-000c076?u=i&sh=tovohx)   |
 | 33 :white_check_mark:     | Panther Peak            |   Feb 17, 2024          |   Completed this as part of one hike, Santanoni Range but had to skip santanoni due to -29 F windchill at night                            |          [Hike-Panther & Couchsachraga](https://www.alltrails.com/widget/recording/hike-panther-ascent-000c076?u=i&sh=tovohx) |
-| 34     | Santanoni Peak          |             |                              |            |
+| 34  :white_check_mark:   | Santanoni Peak          |    Feb 24, 2024         |     Came back next week to complete Santanoni peak. Climbed up through Santanoni Express route. It was challenging going up, coming down was lot fun due to butt slides.           |     [Hike-Santanoni](https://www.alltrails.com/explore/recording/evening-hike-at-santanoni-peak-9f53d83?u=i&sh=tovohx)        |
 | 35     | Blake Peak            |             |                              |            |
 | 36 :white_check_mark:    | Donaldson Mountain      |   Feb 10, 2024 | Completed this as part of one hike, Seward Range                        |   [Hike- Donaldson Mountain, Mount Emmons, Seward Mountain Loop ](https://www.alltrails.com/explore/recording/morning-hike-at-donaldson-mountain-mount-emmons-seward-mountain-loop-d627f44?u=i&sh=tovohx)          |
 | 37 :white_check_mark:    | Emmons                  |   Feb 10, 2024 | Completed this as part of one hike, Seward Range                          |  [Hike- Donaldson Mountain, Mount Emmons, Seward Mountain Loop ](https://www.alltrails.com/explore/recording/morning-hike-at-donaldson-mountain-mount-emmons-seward-mountain-loop-d627f44?u=i&sh=tovohx)           |
