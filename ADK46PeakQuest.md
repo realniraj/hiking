@@ -33,49 +33,7 @@
 | 29     | Hough Peak              |             |                              |            |
 | 30     | Grace Peak              |             |                              |            |
 | 31     | Cliff               |             |                              |            |
-| 32 :white_check_mark:      | Couchsachraga           |  Feb 17, 2024           |  Completed this as part of one hike, Santanoni Range but had to skip santanoni due to -29 F windchill at night. *WinterADK 13/46*
-
-_🏔️ *Panther & Couchsachraga (Santanoni range) Winter Hike Adventure* 🌨️_
-
-Hey Everyone 🚶‍♂️
-
-Just wanted to share the epic winter hiking saga of Panther and Couchsachraga Peaks in the Adirondacks! ❄️
-
-*🥾 Hiking Stats:*
-- Length: 15.7 miles
-- Elevation Gain: 4127 feet
-- Total duration: 15.5 hrs
-- Calories burned: 9500 Calories 
-- Start and Finish time: 8.15 AM, 12.05 AM
-
-🌨️ *Trail Conditions & Fresh Powder:*
-Started with fresh snow covering the trail, making it a challenging yet enjoyable journey. Planned for Santanoni but had to pivot due to the unbroken trail.
-
-🏞️ *Panther Peak & Slippery Ascent:*
-The ascent to Panther Peak was a test of balance on the slippery trail covered in powdery snow. Reaching 2800 ft brought a sense of accomplishment.
-
-🏔️ *Couchsachraga Challenge:*
-Scaling Couchsachraga Peak added another layer of excitement.  Before I could submit I had to be hanging with both of my hands to a tree to scale the final ascent. 
-
-🥶 *Decision Time in Harsh Conditions:*
-With temperatures at -29°F and darkness setting in at 7:00 p.m., had to make the call to skip Santanoni for safety. The Santanoni Peak trail was not broken and it was too dark and cold to break it in the night . Wise choices in the cold.
-
-🛷 *Challenges on Descent:*
-Descended with butt slides and a detour off the trail falling 25 feet in deep snow on the side– adding unexpected adventure to the journey. Each step a mix of fatigue and thrill!
-
-🌌 *Return Journey & the Endless Stretch:*
-3 miles of road walking felt never-ending after a day of intense hiking. Finally reaching the parking lot around midnight – a blend of accomplishment and exhaustion.
-
-🌟 *Reflections:*
-Panther & Couchsachraga offered a unique adventure, testing adaptability and decision-making in the unpredictable Adirondack winter. A chapter filled with challenges and triumphs!
-
-Keep trekking, adventurers! 🚀💪
-
-*📸 Photos:* https://photos.app.goo.gl/KgPQmWaQGZbJVm6j6
-
-*🎥 Videos:* https://youtube.com/playlist?list=PLLfETIXONylDHeDGEFJ4yczH5n0hSKGTp&si=P17S3ZlbTBhKiXsE
-
-🧭 *AllTrails:*  https://www.alltrails.com/explore/recording/hike-panther-ascent-000c076?p=70837913&sh=tovohx                             |          [Hike-Panther & Couchsachraga](https://www.alltrails.com/widget/recording/hike-panther-ascent-000c076?u=i&sh=tovohx)   |
+| 32 :white_check_mark:      | Couchsachraga           |  Feb 17, 2024           |  Completed this as part of one hike, Santanoni Range but had to skip santanoni due to -29 F windchill at night.                           |          [Hike-Panther & Couchsachraga](https://www.alltrails.com/widget/recording/hike-panther-ascent-000c076?u=i&sh=tovohx)   |
 | 33 :white_check_mark:     | Panther Peak            |   Feb 17, 2024          |   Completed this as part of one hike, Santanoni Range but had to skip santanoni due to -29 F windchill at night                            |          [Hike-Panther & Couchsachraga](https://www.alltrails.com/widget/recording/hike-panther-ascent-000c076?u=i&sh=tovohx) |
 | 34     | Santanoni Peak          |             |                              |            |
 | 35     | Blake Peak            |             |                              |            |
