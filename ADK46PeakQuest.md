@@ -1,5 +1,5 @@
 # Niraj Kumar's ADK46 Quest completion list.
-## 14/46 ADK46W | 14/46 ADK46
+## 14/46 ADK46W | 18/46 ADK46
 
 | Serial | Mountain Name               | Date Hiked  | Description                  | AllTrails |
 | ------ | ----------------------- | ----------- | ---------------------------- | ---------- |
