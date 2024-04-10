@@ -3,7 +3,7 @@
 
 | Serial | Mountain Name               | Date Hiked  | Description                  | AllTrails |
 | ------ | ----------------------- | ----------- | ---------------------------- | ---------- |
-| 1      | Marcy                   |             |                              |            |
+| 1 :white_check_mark:     | Marcy                   |  Aug 6, 2023           | Completed this hike in summer of 2023                             |            |
 | 2      | Algonquin               |             |                              |            |
 | 3      | Haystack                |             |                              |            |
 | 4      | Skylight                |             |                              |            |
@@ -19,7 +19,7 @@
 | 14     | Upper Wolf Jaw          |             |                              |            |
 | 15     | Street                  |             |                              |            |
 | 16     | Nye                     |             |                              |            |
-| 17     | Big Slide               |             |                              |            |
+| 17 :white_check_mark:    | Big Slide               | Apr 1, 2024            |  Completed this hike on Weekday                            |            |
 | 18 :white_check_mark:    | Dial                    | Jan 27, 2024 | Completed this as part of one hike, Dial & Nippletop |    [Hike- Dial & NippleTop via Bear Den Trail](https://www.alltrails.com/explore/recording/evening-hike-at-nippletop-via-bear-den-trail-d8ea5f5?u=i&sh=tovohx)         |
 | 19     | Colvin                  |             |                              |            |
 | 20     | Sawteeth                |             |                              |            |
