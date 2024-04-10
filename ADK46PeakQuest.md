@@ -1,6 +1,9 @@
 # Niraj Kumar's ADK46 Quest completion list.
-## 14/46 ADK46W | 18/46 ADK46
-
+### 14/46 ADK46W | 18/46 ADK46
+#### What is ADK46ER? 
+The **ADK46** refers to the Adirondack Forty-Sixers, a group of mountains in the Adirondack Park of New York State that are traditionally climbed by hikers seeking to become members of the **Adirondack Forty-Sixers club**. These peaks boast some of the most rugged and breathtaking terrain in the Northeast, offering a true test of endurance and skill.</p>
+New York’s Adirondack Park is the largest state park within the continental United States, covering about six million acres of land. It’s larger than Yosemite, Yellowstone, Glacier, Grand Canyon, and the Great Smokies National Parks combined. Over 2,000 miles of trails can be found here, which means there’s no reason it shouldn’t be on every hiker’s life list.</p>
+In the early surveys of the land, it was believed that 46 peaks in the region sat above 4,000 feet. The first men to reach the top of all 46 peaks were brothers Robert and George Marshall and their friend Herbert Clark on June 10, 1925. Since then, almost 9,000 people have followed in their footsteps by reaching the top of the original 46 high peaks, earning the right to be called Adirondack 46ers.</p>
 | Serial | Mountain Name               | Date Hiked  | Description                  | AllTrails |
 | ------ | ----------------------- | ----------- | ---------------------------- | ---------- |
 | 1 :white_check_mark:     | Mt. Marcy                   |  Aug 6, 2023           | Completed this hike in summer of 2023                             |    [Mount Marcy via Van Hoevenberg Trail](https://www.alltrails.com/explore/recording/evening-hike-at-mount-marcy-via-van-hoevenberg-trail-55603a5?u=i&sh=tovohx)          |
