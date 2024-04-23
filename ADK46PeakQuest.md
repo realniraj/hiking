@@ -1,5 +1,5 @@
 # Niraj Kumar's ADK46 Quest completion list.
-### 14/46 ADK46W | 18/46 ADK46
+### 14/46 ADK46W | 20/46 ADK46
 #### What is ADK46ER? 
 The **ADK46** refers to the Adirondack Forty-Sixers, a group of mountains in the Adirondack Park of New York State that are traditionally climbed by hikers seeking to become members of the **Adirondack Forty-Sixers club**. These peaks boast some of the most rugged and breathtaking terrain in the Northeast, offering a true test of endurance and skill.</p>
 New York’s Adirondack Park is the largest state park within the continental United States, covering about six million acres of land. It’s larger than Yosemite, Yellowstone, Glacier, Grand Canyon, and the Great Smokies National Parks combined. Over 2,000 miles of trails can be found here, which means there’s no reason it shouldn’t be on every hiker’s life list.</p>
@@ -15,7 +15,7 @@ In the early surveys of the land, it was believed that 46 peaks in the region sa
 | 7      | Gray Peak                   |             |                              |            |
 | 8      | Iroquois Peak               |             |                              |            |
 | 9      | Basin Mtn.                  |             |                              |            |
-| 10     | Gothics                 |             |                              |            |
+| 10 :white_check_mark:    | Gothics                 |  April 16, 2024           | Completed Sawteeth and Gothic in single hike                             | [Sawteeth and Gothic, ADK hike](https://www.alltrails.com/explore/recording/morning-hike-4f2b590-173?u=i&sh=tovohx)           |
 | 11     | Mt. Colden              |             |                              |            |
 | 12 :white_check_mark:     | Giant Mtn.              |  March 30, 2024           | Completed Giant and Rocky Peak in single hike                             |  [Giant Mountain and Rocky Peak Ridge via Roaring Brook Trail](https://www.alltrails.com/explore/recording/evening-hike-at-giant-mountain-and-rocky-peak-ridge-via-roaring-brook-trail-88a839f?u=i&sh=tovohx)          |
 | 13 :white_check_mark:    | NippleTop               | Jan 27, 2024 | Completed this as part of one hike, Dial & Nippletop |   [Hike- Dial & NippleTop via Bear Den Trail](https://www.alltrails.com/explore/recording/evening-hike-at-nippletop-via-bear-den-trail-d8ea5f5?u=i&sh=tovohx)          |
@@ -40,7 +40,7 @@ In the early surveys of the land, it was believed that 46 peaks in the region sa
 | 32     | Phelps Mtn.                  |             |                              |            |
 | 33 :white_check_mark:    | Mt. Donaldson      |   Feb 10, 2024 | Completed this as part of one hike, Seward Range                        |   [Hike- Donaldson Mountain, Mount Emmons, Seward Mountain Loop ](https://www.alltrails.com/explore/recording/morning-hike-at-donaldson-mountain-mount-emmons-seward-mountain-loop-d627f44?u=i&sh=tovohx)          |
 | 34     | Seymour                 |             |                              |            |
-| 35     | Sawteeth                 |             |                              |            |
+| 35 :white_check_mark:    | Sawteeth                 |  April 16, 2024           |   Completed Sawteeth and Gothic in single hike                           |    [Sawteeth and Gothic, ADK hike](https://www.alltrails.com/explore/recording/morning-hike-4f2b590-173?u=i&sh=tovohx)        |
 | 36 :white_check_mark:    | Cascade Mtn.                 | Dec 23, 2023 | Completed this as part of one hike, Cascade & Porter |    [Hike- Cascade Mountain and Porter Mountain ](https://www.alltrails.com/explore/recording/afternoon-hike-at-cascade-mountain-and-porter-mountain-via-cascade-mountain-trail-9b523b0?u=i&sh=tovohx)         |
 | 37     | South Dix               |             |                              |            |
 | 38 :white_check_mark:    | Porter Mtn.                  | Dec 23, 2023 | Completed this as part of one hike, Cascade & Porter |     [Hike- Cascade Mountain and Porter Mountain ](https://www.alltrails.com/explore/recording/afternoon-hike-at-cascade-mountain-and-porter-mountain-via-cascade-mountain-trail-9b523b0?u=i&sh=tovohx)        |
