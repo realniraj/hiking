@@ -1,5 +1,5 @@
 # Niraj Kumar's ADK46 Quest completion list.
-### 14/46 ADK46W | 27/46 ADK46
+### 14/46 ADK46W | 33/46 ADK46
 #### What is ADK46ER? 
 The **ADK46** refers to the Adirondack Forty-Sixers, a group of mountains in the Adirondack Park of New York State that are traditionally climbed by hikers seeking to become members of the **Adirondack Forty-Sixers club**. These peaks boast some of the most rugged and breathtaking terrain in the Northeast, offering a true test of endurance and skill.</p>
 New York’s Adirondack Park is the largest state park within the continental United States, covering about six million acres of land. It’s larger than Yosemite, Yellowstone, Glacier, Grand Canyon, and the Great Smokies National Parks combined. Over 2,000 miles of trails can be found here, which means there’s no reason it shouldn’t be on every hiker’s life list.</p>
@@ -8,21 +8,21 @@ In the early surveys of the land, it was believed that 46 peaks in the region sa
 | ------ | ----------------------- | ----------- | ---------------------------- | ---------- |
 | 1 :white_check_mark:     | Mt. Marcy                   |  Aug 6, 2023           | Completed this hike in summer of 2023                             |    [Mount Marcy via Van Hoevenberg Trail](https://www.alltrails.com/explore/recording/evening-hike-at-mount-marcy-via-van-hoevenberg-trail-55603a5?u=i&sh=tovohx)          |
 | 2      | Algonquin Peak              |             |                              |            |
-| 3      | Mt. Haystack                |             |                              |            |
+| 3  :white_check_mark:    | Mt. Haystack                |             |                              |            |
 | 4  :white_check_mark:    | Mt. Skylight                |  Jul 4, 2024           |    Camped a night before and hiked with headache.                          |    [Skylight, Gray and Marcy hike with headache](https://www.alltrails.com/explore/recording/evening-hike-ad554d8-146)        |
 | 5  :white_check_mark:    | Whiteface Mtn.              | Feb 3, 2024 |  Completed this as part of one hike, Whiteface & Esther | [Whiteface, Lookout and Esther Mountains](https://www.alltrails.com/explore/recording/evening-hike-at-whiteface-lookout-and-esther-mountains-46cd618?u=i&sh=tovohx)           |
 | 6  :white_check_mark:     | Dix Mtn.                      |             |                              |            |
 | 7 :white_check_mark:     | Gray Peak                   | Jul 4, 2024            |   Camped a night before and hiked with headache.                           |     [Skylight, Gray and Marcy hike with headache](https://www.alltrails.com/explore/recording/evening-hike-ad554d8-146)        |
 | 8      | Iroquois Peak               |             |                              |            |
-| 9      | Basin Mtn.                  |             |                              |            |
+| 9    :white_check_mark:  | Basin Mtn.                  |             |                              |            |
 | 10 :white_check_mark:    | Gothics                 |  April 16, 2024           | Completed Sawteeth and Gothic in single hike                             | [Sawteeth and Gothic, ADK hike](https://www.alltrails.com/explore/recording/morning-hike-4f2b590-173?u=i&sh=tovohx)           |
 | 11     | Mt. Colden              |             |                              |            |
 | 12 :white_check_mark:     | Giant Mtn.              |  March 30, 2024           | Completed Giant and Rocky Peak in single hike                             |  [Giant Mountain and Rocky Peak Ridge via Roaring Brook Trail](https://www.alltrails.com/explore/recording/evening-hike-at-giant-mountain-and-rocky-peak-ridge-via-roaring-brook-trail-88a839f?u=i&sh=tovohx)          |
 | 13 :white_check_mark:    | NippleTop               | Jan 27, 2024 | Completed this as part of one hike, Dial & Nippletop |   [Hike- Dial & NippleTop via Bear Den Trail](https://www.alltrails.com/explore/recording/evening-hike-at-nippletop-via-bear-den-trail-d8ea5f5?u=i&sh=tovohx)          |
 | 14  :white_check_mark:   | Santanoni Peak          |    Feb 24, 2024         |     Came back next week to complete Santanoni peak. Climbed up through Santanoni Express route. It was challenging going up, coming down was lot fun due to butt slides.           |     [Hike-Santanoni](https://www.alltrails.com/explore/recording/evening-hike-at-santanoni-peak-9f53d83?u=i&sh=tovohx)        |
-| 15     | Mt. Redfield                |             |                              |            |
+| 15   :white_check_mark:  | Mt. Redfield                |             |                              |            |
 | 16     | Wright Peak                  |             |                              |            |
-| 17     | Saddleback Mtn.                 |             |                              |            |
+| 17   :white_check_mark:  | Saddleback Mtn.                 |             |                              |            |
 | 18 :white_check_mark:     | Panther Peak            |   Feb 17, 2024          |   Completed this as part of one hike, Santanoni Range but had to skip santanoni due to -29 F windchill at night                            |          [Hike-Panther & Couchsachraga](https://www.alltrails.com/widget/recording/hike-panther-ascent-000c076?u=i&sh=tovohx) |
 | 19 :white_check_mark:    | Table Top Mtn.                |  Jul 5, 2024           |           Completed Tabletop in a short hike next day                   |  [Tabletop hike in the afternoon](https://www.alltrails.com/explore/recording/afternoon-hike-c215b44-449)          |
 | 20 :white_check_mark:     | Rocky Peak Ridge                  | March 30, 2024            |     Completed Giant and Rocky Peak in single hike                         |    [Giant Mountain and Rocky Peak Ridge via Roaring Brook Trail](https://www.alltrails.com/explore/recording/evening-hike-at-giant-mountain-and-rocky-peak-ridge-via-roaring-brook-trail-88a839f?u=i&sh=tovohx)        |
@@ -30,7 +30,7 @@ In the early surveys of the land, it was believed that 46 peaks in the region sa
 | 22     | Armstrong Mtn.              |             |                              |            |
 | 23  :white_check_mark:    | Hough Peak              |             |                              |            |
 | 24 :white_check_mark:    | Seward Mtn.                  |   Feb 10, 2024 | Completed this as part of one hike, Seward Range                          | [Hike- Donaldson Mountain, Mount Emmons, Seward Mountain Loop ](https://www.alltrails.com/explore/recording/morning-hike-at-donaldson-mountain-mount-emmons-seward-mountain-loop-d627f44?u=i&sh=tovohx)            |
-| 25     | Mt. Marshall                |             |                              |            |
+| 25  :white_check_mark:   | Mt. Marshall                |             |                              |            |
 | 26     | Allen Mtn.                  |             |                              |            |
 | 27 :white_check_mark:    | Big Slide               | Apr 1, 2024            |  Completed this hike on Weekday                            |  [Big slide mountain, ADK via The Brothers](https://www.alltrails.com/explore/recording/afternoon-hike-at-trail-planner-map-5a2afca-8?u=i&sh=tovohx)          |
 | 28 :white_check_mark:    | Esther Mtn.                  | Feb 3, 2024 | Completed this as part of one hike, Whiteface & Esther |    [Whiteface, Lookout and Esther Mountains](https://www.alltrails.com/explore/recording/evening-hike-at-whiteface-lookout-and-esther-mountains-46cd618?u=i&sh=tovohx)         |
@@ -49,6 +49,6 @@ In the early surveys of the land, it was believed that 46 peaks in the region sa
 | 41 :white_check_mark:    | Dial                    | Jan 27, 2024 | Completed this as part of one hike, Dial & Nippletop |    [Hike- Dial & NippleTop via Bear Den Trail](https://www.alltrails.com/explore/recording/evening-hike-at-nippletop-via-bear-den-trail-d8ea5f5?u=i&sh=tovohx)         |
 | 42 :white_check_mark:     | Grace Peak (formerly known as East Dix)              |             |                              |            |
 | 43     | Blake Peak            |             |                              |            |
-| 44     | Cliff Mtn.               |             |                              |            |
+| 44   :white_check_mark:  | Cliff Mtn.               |             |                              |            |
 | 45     | Nye Mtn.                |             |                              |            |
 | 46 :white_check_mark:      | Couchsachraga           |  Feb 17, 2024           |  Completed this as part of one hike, Santanoni Range but had to skip santanoni due to -29 F windchill at night.                           |          [Hike-Panther & Couchsachraga](https://www.alltrails.com/widget/recording/hike-panther-ascent-000c076?u=i&sh=tovohx)   |
