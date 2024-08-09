@@ -20,7 +20,7 @@ In the early surveys of the land, it was believed that 46 peaks in the region sa
 | 12 :white_check_mark:     | Giant Mtn.              |  March 30, 2024           | Completed Giant and Rocky Peak in single hike                             |  [Giant Mountain and Rocky Peak Ridge via Roaring Brook Trail](https://www.alltrails.com/explore/recording/evening-hike-at-giant-mountain-and-rocky-peak-ridge-via-roaring-brook-trail-88a839f?u=i&sh=tovohx)          |
 | 13 :white_check_mark:    | NippleTop               | Jan 27, 2024 | Completed this as part of one hike, Dial & Nippletop |   [Hike- Dial & NippleTop via Bear Den Trail](https://www.alltrails.com/explore/recording/evening-hike-at-nippletop-via-bear-den-trail-d8ea5f5?u=i&sh=tovohx)          |
 | 14  :white_check_mark:   | Santanoni Peak          |    Feb 24, 2024         |     Came back next week to complete Santanoni peak. Climbed up through Santanoni Express route. It was challenging going up, coming down was lot fun due to butt slides.           |     [Hike-Santanoni](https://www.alltrails.com/explore/recording/evening-hike-at-santanoni-peak-9f53d83?u=i&sh=tovohx)        |
-| 15   :white_check_mark:  | Mt. Redfield                |             |                              |            |
+| 15   :white_check_mark:  | Mt. Redfield                |        July 27, 2024     |                              |            |
 | 16     | Wright Peak                  |             |                              |            |
 | 17   :white_check_mark:  | Saddleback Mtn.                 |      Aug 3, 2024       |                              |            |
 | 18 :white_check_mark:     | Panther Peak            |   Feb 17, 2024          |   Completed this as part of one hike, Santanoni Range but had to skip santanoni due to -29 F windchill at night                            |          [Hike-Panther & Couchsachraga](https://www.alltrails.com/widget/recording/hike-panther-ascent-000c076?u=i&sh=tovohx) |
@@ -30,7 +30,7 @@ In the early surveys of the land, it was believed that 46 peaks in the region sa
 | 22     | Armstrong Mtn.              |             |                              |            |
 | 23  :white_check_mark:    | Hough Peak              |      July 20, 2024       |                              |            |
 | 24 :white_check_mark:    | Seward Mtn.                  |   Feb 10, 2024 | Completed this as part of one hike, Seward Range                          | [Hike- Donaldson Mountain, Mount Emmons, Seward Mountain Loop ](https://www.alltrails.com/explore/recording/morning-hike-at-donaldson-mountain-mount-emmons-seward-mountain-loop-d627f44?u=i&sh=tovohx)            |
-| 25  :white_check_mark:   | Mt. Marshall                |             |                              |            |
+| 25  :white_check_mark:   | Mt. Marshall                |       July 28, 2024      |                              |            |
 | 26     | Allen Mtn.                  |             |                              |            |
 | 27 :white_check_mark:    | Big Slide               | Apr 1, 2024            |  Completed this hike on Weekday                            |  [Big slide mountain, ADK via The Brothers](https://www.alltrails.com/explore/recording/afternoon-hike-at-trail-planner-map-5a2afca-8?u=i&sh=tovohx)          |
 | 28 :white_check_mark:    | Esther Mtn.                  | Feb 3, 2024 | Completed this as part of one hike, Whiteface & Esther |    [Whiteface, Lookout and Esther Mountains](https://www.alltrails.com/explore/recording/evening-hike-at-whiteface-lookout-and-esther-mountains-46cd618?u=i&sh=tovohx)         |
@@ -47,8 +47,8 @@ In the early surveys of the land, it was believed that 46 peaks in the region sa
 | 39     | Mt. Colvin                  |             |                              |            |
 | 40 :white_check_mark:    | Mt. Emmons                  |   Feb 10, 2024 | Completed this as part of one hike, Seward Range                          |  [Hike- Donaldson Mountain, Mount Emmons, Seward Mountain Loop ](https://www.alltrails.com/explore/recording/morning-hike-at-donaldson-mountain-mount-emmons-seward-mountain-loop-d627f44?u=i&sh=tovohx)           |
 | 41 :white_check_mark:    | Dial                    | Jan 27, 2024 | Completed this as part of one hike, Dial & Nippletop |    [Hike- Dial & NippleTop via Bear Den Trail](https://www.alltrails.com/explore/recording/evening-hike-at-nippletop-via-bear-den-trail-d8ea5f5?u=i&sh=tovohx)         |
-| 42 :white_check_mark:     | Grace Peak (formerly known as East Dix)              |             |                              |            |
+| 42 :white_check_mark:     | Grace Peak (formerly known as East Dix)              |             |      July 20, 2024                        |            |
 | 43     | Blake Peak            |             |                              |            |
-| 44   :white_check_mark:  | Cliff Mtn.               |             |                              |            |
+| 44   :white_check_mark:  | Cliff Mtn.               |      July 27, 2024       |                              |            |
 | 45     | Nye Mtn.                |             |                              |            |
 | 46 :white_check_mark:      | Couchsachraga           |  Feb 17, 2024           |  Completed this as part of one hike, Santanoni Range but had to skip santanoni due to -29 F windchill at night.                           |          [Hike-Panther & Couchsachraga](https://www.alltrails.com/widget/recording/hike-panther-ascent-000c076?u=i&sh=tovohx)   |
