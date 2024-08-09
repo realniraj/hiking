@@ -8,13 +8,13 @@ In the early surveys of the land, it was believed that 46 peaks in the region sa
 | ------ | ----------------------- | ----------- | ---------------------------- | ---------- |
 | 1 :white_check_mark:     | Mt. Marcy                   |  Aug 6, 2023           | Completed this hike in summer of 2023                             |    [Mount Marcy via Van Hoevenberg Trail](https://www.alltrails.com/explore/recording/evening-hike-at-mount-marcy-via-van-hoevenberg-trail-55603a5?u=i&sh=tovohx)          |
 | 2      | Algonquin Peak              |             |                              |            |
-| 3  :white_check_mark:    | Mt. Haystack                |             |                              |            |
+| 3  :white_check_mark:    | Mt. Haystack                |      Aug 3, 2024       |                              |            |
 | 4  :white_check_mark:    | Mt. Skylight                |  Jul 4, 2024           |    Camped a night before and hiked with headache.                          |    [Skylight, Gray and Marcy hike with headache](https://www.alltrails.com/explore/recording/evening-hike-ad554d8-146)        |
 | 5  :white_check_mark:    | Whiteface Mtn.              | Feb 3, 2024 |  Completed this as part of one hike, Whiteface & Esther | [Whiteface, Lookout and Esther Mountains](https://www.alltrails.com/explore/recording/evening-hike-at-whiteface-lookout-and-esther-mountains-46cd618?u=i&sh=tovohx)           |
-| 6  :white_check_mark:     | Dix Mtn.                      |             |                              |            |
+| 6  :white_check_mark:     | Dix Mtn.                      |        July 20, 2024    |                              |            |
 | 7 :white_check_mark:     | Gray Peak                   | Jul 4, 2024            |   Camped a night before and hiked with headache.                           |     [Skylight, Gray and Marcy hike with headache](https://www.alltrails.com/explore/recording/evening-hike-ad554d8-146)        |
 | 8      | Iroquois Peak               |             |                              |            |
-| 9    :white_check_mark:  | Basin Mtn.                  |             |                              |            |
+| 9    :white_check_mark:  | Basin Mtn.                  |      Aug 3, 2024       |                              |            |
 | 10 :white_check_mark:    | Gothics                 |  April 16, 2024           | Completed Sawteeth and Gothic in single hike                             | [Sawteeth and Gothic, ADK hike](https://www.alltrails.com/explore/recording/morning-hike-4f2b590-173?u=i&sh=tovohx)           |
 | 11     | Mt. Colden              |             |                              |            |
 | 12 :white_check_mark:     | Giant Mtn.              |  March 30, 2024           | Completed Giant and Rocky Peak in single hike                             |  [Giant Mountain and Rocky Peak Ridge via Roaring Brook Trail](https://www.alltrails.com/explore/recording/evening-hike-at-giant-mountain-and-rocky-peak-ridge-via-roaring-brook-trail-88a839f?u=i&sh=tovohx)          |
@@ -22,13 +22,13 @@ In the early surveys of the land, it was believed that 46 peaks in the region sa
 | 14  :white_check_mark:   | Santanoni Peak          |    Feb 24, 2024         |     Came back next week to complete Santanoni peak. Climbed up through Santanoni Express route. It was challenging going up, coming down was lot fun due to butt slides.           |     [Hike-Santanoni](https://www.alltrails.com/explore/recording/evening-hike-at-santanoni-peak-9f53d83?u=i&sh=tovohx)        |
 | 15   :white_check_mark:  | Mt. Redfield                |             |                              |            |
 | 16     | Wright Peak                  |             |                              |            |
-| 17   :white_check_mark:  | Saddleback Mtn.                 |             |                              |            |
+| 17   :white_check_mark:  | Saddleback Mtn.                 |      Aug 3, 2024       |                              |            |
 | 18 :white_check_mark:     | Panther Peak            |   Feb 17, 2024          |   Completed this as part of one hike, Santanoni Range but had to skip santanoni due to -29 F windchill at night                            |          [Hike-Panther & Couchsachraga](https://www.alltrails.com/widget/recording/hike-panther-ascent-000c076?u=i&sh=tovohx) |
 | 19 :white_check_mark:    | Table Top Mtn.                |  Jul 5, 2024           |           Completed Tabletop in a short hike next day                   |  [Tabletop hike in the afternoon](https://www.alltrails.com/explore/recording/afternoon-hike-c215b44-449)          |
 | 20 :white_check_mark:     | Rocky Peak Ridge                  | March 30, 2024            |     Completed Giant and Rocky Peak in single hike                         |    [Giant Mountain and Rocky Peak Ridge via Roaring Brook Trail](https://www.alltrails.com/explore/recording/evening-hike-at-giant-mountain-and-rocky-peak-ridge-via-roaring-brook-trail-88a839f?u=i&sh=tovohx)        |
 | 21 :white_check_mark:    | Macomb                  | Jan 6, 2024 | Completed this hike in singles |   [Hike- Macomb Mountain via Slide Brook Trail](https://www.alltrails.com/explore/recording/evening-hike-at-macomb-mountain-via-slide-brook-trail-2a27b81?u=i&sh=tovohx)          |
 | 22     | Armstrong Mtn.              |             |                              |            |
-| 23  :white_check_mark:    | Hough Peak              |             |                              |            |
+| 23  :white_check_mark:    | Hough Peak              |      July 20, 2024       |                              |            |
 | 24 :white_check_mark:    | Seward Mtn.                  |   Feb 10, 2024 | Completed this as part of one hike, Seward Range                          | [Hike- Donaldson Mountain, Mount Emmons, Seward Mountain Loop ](https://www.alltrails.com/explore/recording/morning-hike-at-donaldson-mountain-mount-emmons-seward-mountain-loop-d627f44?u=i&sh=tovohx)            |
 | 25  :white_check_mark:   | Mt. Marshall                |             |                              |            |
 | 26     | Allen Mtn.                  |             |                              |            |
@@ -42,7 +42,7 @@ In the early surveys of the land, it was believed that 46 peaks in the region sa
 | 34     | Seymour                 |             |                              |            |
 | 35 :white_check_mark:    | Sawteeth                 |  April 16, 2024           |   Completed Sawteeth and Gothic in single hike                           |    [Sawteeth and Gothic, ADK hike](https://www.alltrails.com/explore/recording/morning-hike-4f2b590-173?u=i&sh=tovohx)        |
 | 36 :white_check_mark:    | Cascade Mtn.                 | Dec 23, 2023 | Completed this as part of one hike, Cascade & Porter |    [Hike- Cascade Mountain and Porter Mountain ](https://www.alltrails.com/explore/recording/afternoon-hike-at-cascade-mountain-and-porter-mountain-via-cascade-mountain-trail-9b523b0?u=i&sh=tovohx)         |
-| 37 :white_check_mark:     | South Dix               |             |                              |            |
+| 37 :white_check_mark:     | South Dix               |       July 20, 2024      |                              |            |
 | 38 :white_check_mark:    | Porter Mtn.                  | Dec 23, 2023 | Completed this as part of one hike, Cascade & Porter |     [Hike- Cascade Mountain and Porter Mountain ](https://www.alltrails.com/explore/recording/afternoon-hike-at-cascade-mountain-and-porter-mountain-via-cascade-mountain-trail-9b523b0?u=i&sh=tovohx)        |
 | 39     | Mt. Colvin                  |             |                              |            |
 | 40 :white_check_mark:    | Mt. Emmons                  |   Feb 10, 2024 | Completed this as part of one hike, Seward Range                          |  [Hike- Donaldson Mountain, Mount Emmons, Seward Mountain Loop ](https://www.alltrails.com/explore/recording/morning-hike-at-donaldson-mountain-mount-emmons-seward-mountain-loop-d627f44?u=i&sh=tovohx)           |
